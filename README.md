@@ -14,4 +14,4 @@ mack_loadingscreen is a loadingscreen by [Mackgame4](https://github.com/Mackgame
 ## ☁️ Download:  
 [Here](https://github.com/Mackgame4/mack_loadingscreen) or Github (https://github.com/Mackgame4/mack_loadingscreen)  
 Join our Discord or in (https://discord.io/mack)  
-### Creators: Mackgame4 & KingRich (Portugal❤️Italy)  
+### Creators: Mackgame4 & KingRich (Portugal❤️Italy)

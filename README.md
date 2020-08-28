@@ -1,10 +1,10 @@
 # mack_loadingscreen
 
-⚙️ How to Install
-Download mack_loadingscreen (https://github.com/Mackgame4/mack_loadingscreen) and drop in your "resources" folder  
-Add to your server.cfg, look like:  
+⚙️ How to Install  
+- Download mack_loadingscreen (https://github.com/Mackgame4/mack_loadingscreen) and drop in your "resources" folder  
+- Add to your server.cfg, look like:  
 ```ensure mack_loadingscreen```  
-Just start your server and have fun  
+- Just start your server and have fun  
 
 📷 Screenshots  
 https://i.imgur.com/1v3Nmxb.png

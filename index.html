@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <link href="style.css" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+    </head>
+    <body>
+        <div id="background">
+        </div>
+        <div id="logo">
+			<div class="center">
+				<p>Press [<b>SPACE</b>] to play/pause music</p>
+				<!--p>Press <kbd>SPACE</kbd> to play/pause music</p-->
+			</div>
+            <!--div id="log" class="log">Error initializing log</div-->
+            <div id="debug" class="log log-top-right"></div>
+            <div class="loading-container">
+                <div class ="loading-labels">
+                    <div id="INIT_BEFORE_MAP_LOADED-label" class="color-first"></div>
+                    <div id="MAP-label" class="color-second"></div>
+                    <div id="INIT_AFTER_MAP_LOADED-label" class="color-third"></div>
+                    <div id="INIT_SESSION-label" class="color-fourth"></div>
+                </div>
+                <div class="loading-bar-container">
+                    <div id="INIT_BEFORE_MAP_LOADED-bar" class="loading-bar bgcolor-first"></div>
+                    <div id="MAP-bar" class="loading-bar bgcolor-second"></div>
+                    <div id="INIT_AFTER_MAP_LOADED-bar" class="loading-bar bgcolor-third"></div>
+                    <div id="INIT_SESSION-bar" class="loading-bar bgcolor-fourth"></div>
+                </div>
+            </div>
+        </div>
+		<div class="ticker-wrap">
+			<div class="ticker">
+				<div class="ticker__item">Loadingscreen by 🍹MrMack.exe🍹#4502</div>
+				<div class="ticker__item">MG_loadingscreen inspired on 3QRP Loadingscreen</div>
+				<div class="ticker__item">Contact-me 3QRP please xD (discord.io/mack)</div>
+				<div class="ticker__item">Made with ❤️ by Mack</div>
+			</div>
+		</div>
+		<script src="index.js" type="text/javascript"></script>
+    </body>
+    <audio id="music" src="music/music.mp3" autoplay="true" hidden="true" loop="true"/>
+	<script>
+		var play = false;
+		var myAudio = document.getElementById("music");
+		myAudio.volume = 0.1;
+		function onKeyDown(event) {
+				switch (event.keyCode) {
+					case 32: //SpaceBar                    
+						if (play) {
+							myAudio.pause();
+							play = false;
+						} else {
+							myAudio.play();
+							play = true;
+						}
+						break;
+				}
+		  return false;
+		}
+		window.addEventListener("keydown", onKeyDown, false);
+    </script>
+</html>

@@ -6,7 +6,8 @@
 - Just start your server and have fun  
 
 ## 📷 Screenshots  
-https://i.imgur.com/1v3Nmxb.png
+Screenshot: https://i.imgur.com/1v3Nmxb.png
+Video: https://streamable.com/gaix12
 
 ## 🔖 Attention:  
 mack_loadingscreen is a loadingscreen by [Mackgame4](https://github.com/Mackgame4) created based on [TFRP_Loadingscreen](https://forum.cfx.re/t/release-tfrp-nopixel-loading-screen-modification-new-version-kingrich-importanthippo/202859) by [KingRich](https://github.com/KingRich-TLFRP/TFRP_loadingscreen)

@@ -1,17 +1,17 @@
 # mack_loadingscreen
 
-⚙️ How to Install  
+## ⚙️ How to Install  
 - Download mack_loadingscreen (https://github.com/Mackgame4/mack_loadingscreen) and drop in your "resources" folder  
 - Add to your server.cfg, the following line: ```ensure mack_loadingscreen```  
 - Just start your server and have fun  
 
-📷 Screenshots  
+## 📷 Screenshots  
 https://i.imgur.com/1v3Nmxb.png
 
-🔖 Attention:  
+## 🔖 Attention:  
 mack_loadingscreen is a loadingscreen by [Mackgame4](https://github.com/Mackgame4) created based on [TFRP_Loadingscreen](https://forum.cfx.re/t/release-tfrp-nopixel-loading-screen-modification-new-version-kingrich-importanthippo/202859) by [KingRich](https://github.com/KingRich-TLFRP/TFRP_loadingscreen)
 
-☁️ Download:  
+## ☁️ Download:  
 [Here](https://github.com/Mackgame4/mack_loadingscreen) or Github (https://github.com/Mackgame4/mack_loadingscreen)  
 Join our Discord or in (https://discord.io/mack)  
-Creators: Mackgame4 & KingRich (Portugal❤️Italy)  
+### Creators: Mackgame4 & KingRich (Portugal❤️Italy)  
